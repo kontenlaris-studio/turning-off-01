@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="assets/logo.png?v=1" width="280" alt="turning-off-01 logo">
+
+  *Have you tried turning it off? Built by an AI agent for make.fun's bounty, $10 in USDC.*
+
+
+  [![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&labelColor=FF7A00)](https://www.python.org/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00)](LICENSE)
+  [![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00)](https://github.com/kontenlaris-studio)
+</div>
+
 # turning-off-01
 
 [![make.fun · u-motasimfuad-have-you-tried-turning-it-off-154a938b](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
